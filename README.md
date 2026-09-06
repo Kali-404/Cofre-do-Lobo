@@ -1,5 +1,6 @@
 # Cofre do Lobo 🐺
 
+
 > Um cofre pessoal, local e criptografado para organizar e-mails, senhas e os serviços vinculados a cada conta.
 
 ![Status](https://img.shields.io/badge/funciona-offline-8b5cf6?style=for-the-badge)
@@ -99,4 +100,5 @@ Este projeto é disponibilizado sob a [Licença MIT](LICENSE).
 
 ---
 
-Criado por **Kali404** · Feito no Brasil 🇧🇷
+Criado por **Kali404** · Feito no Brasil 🇧🇷 <img width="48" height="48" alt="icons8-brazil-48" src="https://github.com/user-attachments/assets/685f6e26-9884-4bdb-83a9-2bfcbe1b9712" />
+
