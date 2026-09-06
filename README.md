@@ -1,4 +1,4 @@
-# Cofre do Lobo <img width="40" height="40" alt="Logo-HTML" src="https://github.com/user-attachments/assets/497b774f-0165-4868-8ab0-6037d9db30a0" />
+# @@ Cofre do Lobo @@ <img width="40" height="40" alt="Logo-HTML" src="https://github.com/user-attachments/assets/497b774f-0165-4868-8ab0-6037d9db30a0" />
 
 
 
@@ -150,3 +150,12 @@ Script em PHP para criação de uma imagem PNG formada por um gradiente de cores
 - [Sindre Sorhus](https://github.com/sindresorhus) in [ink-gradient](https://www.npmjs.com/package/ink-gradient?activeTab=dependencies#:~:text=gradient%2Dstring), the [Ink](https://github.com/vadimdemedes/ink) version of gradient-string
 - [And ![many](https://flat.badgen.net/github/dependents-repo/bokub/gradient-string?color=000&label=) more in open-source projects](https://github.com/bokub/gradient-string/network/dependents), who downloaded gradient-string [more than ![many](https://flat.badgen.net/npm/dt/gradient-string?color=000&label=) times][downloads-href]!
 
+
+
+$${\color{red}Red}$$
+$${\color{green)Green}$$
+$${\color{lightgreen)Light \space Green}$$
+$${\color{blue}Blue}$$
+$${\color{lightblue}Light \space Blue}$$
+$${\color{black}Black}$$
+$${\color{white}White}$$
