@@ -196,6 +196,11 @@ Script em PHP para criação de uma imagem PNG formada por um gradiente de cores
 > Este é um destaque vermelho para alertas de perigo.
 
 
+Verde Escuro: $\color{#006400}{\text{Texto em verde escuro}}$Verde Lima: $\color{#32CD32}{\text{Texto em verde lima}}$Verde Oliva: $\color{#808000}{\text{Texto em verde oliva}}$
+
+$\color{#39FF14}{\text{Seu texto em verde fluorescente aqui}}$
+
+$\color{#00FF00}{\text{Seu texto em verde elétrico aqui}}$
 
 
 
