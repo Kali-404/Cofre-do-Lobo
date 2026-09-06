@@ -83,7 +83,7 @@ Get-FileHash .\index.html -Algorithm SHA256
 
 Publique o valor retornado junto de cada Release para que outras pessoas possam comparar o arquivo baixado.
 
-> [!IMPORTANT]
+$\color{#FF5733}{\text{usar um código HEX personalizado}}$
  ## Limitações conhecidas
 
 - A recuperação dos dados depende da senha mestre ou da frase de recuperação configurada. Não há servidor capaz de restaurar uma senha perdida.
@@ -102,7 +102,16 @@ Este projeto é disponibilizado sob a [Licença MIT](LICENSE).
 
 ---
 
-Criado por **Kali404** · Feito no Brasil 🇧🇷 <img width="16" height="16" alt="icons8-brazil-16" src="https://github.com/user-attachments/assets/7b53fb36-4c52-46ff-a185-384f1a3bfee1" />
+Criado por $\color{#00FF00}{\text{**Kali404**}}$ · Feito no Brasil 🇧🇷 <img width="16" height="16" alt="icons8-brazil-16" src="https://github.com/user-attachments/assets/7b53fb36-4c52-46ff-a185-384f1a3bfee1" />
+
+
+
+
+
+
+
+
+
 
 <table width="100%">
   <tr bgcolor="#FF007F">
