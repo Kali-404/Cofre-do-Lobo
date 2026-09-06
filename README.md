@@ -103,17 +103,15 @@ Este projeto é disponibilizado sob a [Licença MIT](LICENSE).
 
 Criado por **Kali404** · Feito no Brasil 🇧🇷 <img width="16" height="16" alt="icons8-brazil-16" src="https://github.com/user-attachments/assets/7b53fb36-4c52-46ff-a185-384f1a3bfee1" />
 
-<samp>
-  <div align="center">
-    <ins><b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b></ins>
-  </div>
-</samp>
+<table width="100%">
+  <tr bgcolor="#FF007F">
+    <td height="4px" style="border: none;"></td>
+  </tr>
+</table>
 
 
-<img src="https://vercel.app" width="100%"/>
+<p align="center">
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
-![Linha Gradiente](https://github.com)
-
-
-<table><tr bgcolor="#FF007F"><td> </td></tr></table>
-
+![](./assets/sua-linha-gradiente.png)
