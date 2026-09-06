@@ -1,5 +1,5 @@
-> # Cofre do Lobo  <img width="40" height="40" alt="Logo-HTML" src="https://github.com/user-attachments/assets/497b774f-0165-4868-8ab0-6037d9db30a0" />
->
+# Cofre do Lobo  <img width="40" height="40" alt="Logo-HTML" src="https://github.com/user-attachments/assets/497b774f-0165-4868-8ab0-6037d9db30a0" />
+
 
 
 > Um cofre pessoal, local e criptografado para organizar e-mails, senhas e os serviços vinculados a cada conta.
@@ -102,7 +102,7 @@ Este projeto é disponibilizado sob a [Licença MIT](LICENSE).
 
 ---
 
-Criado por $\color{#00FF00}{\text{**Kali404**}}$ · Feito no Brasil 🇧🇷 <img width="16" height="16" alt="icons8-brazil-16" src="https://github.com/user-attachments/assets/7b53fb36-4c52-46ff-a185-384f1a3bfee1" />
+Criado por **Kali404**· Feito no Brasil 🇧🇷 <img width="16" height="16" alt="icons8-brazil-16" src="https://github.com/user-attachments/assets/7b53fb36-4c52-46ff-a185-384f1a3bfee1" />
 
 
 
@@ -111,98 +111,4 @@ Criado por $\color{#00FF00}{\text{**Kali404**}}$ · Feito no Brasil 🇧🇷 <im
 
 
 
-
-
-<table width="100%">
-  <tr bgcolor="#FF007F">
-    <td height="4px" style="border: none;"></td>
-  </tr>
-</table>
-
-
-<p align="center">
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-![](./assets/sua-linha-gradiente.png)
-
-
-## Senóide de gradiente de cores RGB
-
-Script em PHP para criação de uma imagem PNG formada por um gradiente de cores gerado a partir de uma função senoidal, para cada canal RGB.
-
-### Exemplo da imagem gerada:
-
-![Senoide](img/rainbow.png?raw=true)
-
-### Referências:
-
-- Bumgardner, J. Making annoying rainbows in javascript. Krazydad. October 13, 2006. Disponível em: <https://krazydad.com/tutorials/makecolors.php>
-
-##### Result
-
-![Example result](http://i.imgur.com/plQAN2Q.png)
-
-## Dependencies
-
-- [chalk](https://github.com/chalk/chalk) - Output colored text to terminal
-- [tinygradient](https://github.com/mistic100/tinygradient) - Generate gradients
-
-## Who uses gradient-string?
-
-- [Shopify](https://shopify.com/) in [Shopify CLI](https://www.npmjs.com/package/@shopify/cli-kit?activeTab=dependencies#:~:text=gradient%2Dstring)
-- [Turoborepo](https://turbo.build/) in [@turbo/workspaces](https://www.npmjs.com/package/@turbo/workspaces?activeTab=dependencies#:~:text=gradient%2Dstring) and [@turbo/codemod](https://www.npmjs.com/package/@turbo/codemod?activeTab=dependencies#:~:text=gradient%2Dstring)
-- [Tencent](https://www.tencent.com/) in [CloudBase Framework](https://www.npmjs.com/package/@cloudbase/framework-core?activeTab=dependencies#:~:text=gradient%2Dstring)
-- [Microsoft](https://microsoft.com) in [@lage-run/reporters](https://www.npmjs.com/package/@lage-run/reporters?activeTab=dependencies#:~:text=gradient%2Dstring)
-- [Fireship](https://fireship.io/) in [this YouTube video](https://youtu.be/_oHByo8tiEY?si=-G6EOqca31UYlWqr&t=341), where he shows how he built [javascript-millionaire](https://github.com/fireship-io/javascript-millionaire)
-- [Magic UI](https://magicui.design/) in [Magic UI CLI](https://www.npmjs.com/package/magicui-cli?activeTab=dependencies#:~:text=gradient%2Dstring)
-- [Myself](https://github.com/bokub) in [chalk-animation](https://github.com/bokub/chalk-animation), the animated version of gradient-string
-- [Sindre Sorhus](https://github.com/sindresorhus) in [ink-gradient](https://www.npmjs.com/package/ink-gradient?activeTab=dependencies#:~:text=gradient%2Dstring), the [Ink](https://github.com/vadimdemedes/ink) version of gradient-string
-- [And ![many](https://flat.badgen.net/github/dependents-repo/bokub/gradient-string?color=000&label=) more in open-source projects](https://github.com/bokub/gradient-string/network/dependents), who downloaded gradient-string [more than ![many](https://flat.badgen.net/npm/dt/gradient-string?color=000&label=) times][downloads-href]!
-
-
-<span style="color: red">Este texto está em vermelho</span>
-<span style="color: #00ff00">Este texto está em verde usando código HEX</span>
-<span style="color: rgb(0, 128, 255)">Este texto está em azul usando RGB</span>
-
-
-
-- Texto em vermelho (removido)
-+ Texto em verde (adicionado)
-! Texto em laranja/amarelo (alerta)
-# Texto em cinza (comentário)
-
-
-- Este texto ficará totalmente em vermelho
-+ Este texto ficará totalmente em verde
-! Este texto ficará totalmente em laranja
-# Este texto ficará totalmente em cinza
-
-
-
-> [!NOTE]
-> Este é um destaque azul para notas úteis.
-
-> [!TIP]
-> Este é um destaque verde para dicas de sucesso.
-
-> [!IMPORTANT]
-> Este é um destaque roxo para informações cruciais.
-
-> [!WARNING]
-> Este é um destaque amarelo/laranja para avisos.
-
-> [!CAUTION]
-> Este é um destaque vermelho para alertas de perigo.
-
-
-Verde Escuro: $\color{#006400}{\text{Texto em verde escuro}}$Verde Lima: $\color{#32CD32}{\text{Texto em verde lima}}$Verde Oliva: $\color{#808000}{\text{Texto em verde oliva}}$
-
-$\color{#39FF14}{\text{Seu texto em verde fluorescente aqui}}$
-
-$\color{#00FF00}{\text{Seu texto em verde elétrico aqui}}$
-
-
-
-Isto é um texto normal, mas podemos ter uma $\color{cyan}{\text{palavra em ciano}}$ ou quem sabe $\color{#FF5733}{\text{usar um código HEX personalizado}}$ bem aqui.
 
