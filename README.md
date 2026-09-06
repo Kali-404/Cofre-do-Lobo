@@ -30,17 +30,19 @@ O projeto foi criado por **Kali404**, com foco em utilidade, privacidade e organ
 ## Galeria
 
 <p align="center">
-  <img src="assets/screenshots/tela-inicial.png" alt="Tela inicial do Cofre do Lobo" width="25%" />
-  <img src="assets/screenshots/criacao-do-cofre.png" alt="Criação de senha mestre e frase de recuperação" width="48%" />
+  <img src="assets/screenshots/tela-inicial.png" alt="Tela inicial do Cofre do Lobo" width="30%" />
+  <img src="assets/screenshots/criacao-do-cofre.png" alt="Criação de senha mestre e frase de recuperação" width="30%" />
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/painel-vazio.png" alt="Painel sem contas cadastradas" width="48%" />
-  <img src="assets/screenshots/contas-e-servicos.png" alt="Contas e serviços vinculados" width="48%" />
+  <img src="assets/screenshots/painel-vazio.png" alt="Painel sem contas cadastradas" width="30%" />
+  <img src="assets/screenshots/contas-e-servicos.png" alt="Contas e serviços vinculados" width="30%" />
 </p>
-
+https://drive.google.com/file/d/1_5Ac3SysyI_MZ0jOB0fwTuiKCfqk_rsb/view?usp=sharing
 <p align="center">
-  <img src="assets/screenshots/adicionar-conta.png" alt="Formulário para adicionar uma conta" width="48%" />
+  <img src="assets/screenshots/adicionar-conta.png" alt="Formulário para adicionar uma conta" width="30
+
+%" />
 </p>
 
 *As imagens demonstram a interface com exemplos de teste. Nunca publique capturas contendo credenciais reais.*
