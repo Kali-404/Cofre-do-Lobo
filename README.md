@@ -151,5 +151,12 @@ Script em PHP para criação de uma imagem PNG formada por um gradiente de cores
 - [And ![many](https://flat.badgen.net/github/dependents-repo/bokub/gradient-string?color=000&label=) more in open-source projects](https://github.com/bokub/gradient-string/network/dependents), who downloaded gradient-string [more than ![many](https://flat.badgen.net/npm/dt/gradient-string?color=000&label=) times][downloads-href]!
 
 
+<span style="color: red">Este texto está em vermelho</span>
+<span style="color: #00ff00">Este texto está em verde usando código HEX</span>
+<span style="color: rgb(0, 128, 255)">Este texto está em azul usando RGB</span>
+- Texto em vermelho (removido)
++ Texto em verde (adicionado)
+! Texto em laranja/amarelo (alerta)
+# Texto em cinza (comentário)
 
 
