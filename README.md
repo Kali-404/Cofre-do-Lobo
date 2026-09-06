@@ -154,6 +154,9 @@ Script em PHP para criação de uma imagem PNG formada por um gradiente de cores
 <span style="color: red">Este texto está em vermelho</span>
 <span style="color: #00ff00">Este texto está em verde usando código HEX</span>
 <span style="color: rgb(0, 128, 255)">Este texto está em azul usando RGB</span>
+
+
+
 - Texto em vermelho (removido)
 + Texto em verde (adicionado)
 ! Texto em laranja/amarelo (alerta)
@@ -182,4 +185,9 @@ Script em PHP para criação de uma imagem PNG formada por um gradiente de cores
 > [!CAUTION]
 > Este é um destaque vermelho para alertas de perigo.
 
+
+
+
+
+Isto é um texto normal, mas podemos ter uma $\color{cyan}{\text{palavra em ciano}}$ ou quem sabe $\color{#FF5733}{\text{usar um código HEX personalizado}}$ bem aqui.
 
