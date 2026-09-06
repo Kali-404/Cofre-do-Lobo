@@ -84,7 +84,7 @@ Get-FileHash .\index.html -Algorithm SHA256
 Publique o valor retornado junto de cada Release para que outras pessoas possam comparar o arquivo baixado.
 
 > [!IMPORTANT]
-> ## Limitações conhecidas
+ ## Limitações conhecidas
 
 - A recuperação dos dados depende da senha mestre ou da frase de recuperação configurada. Não há servidor capaz de restaurar uma senha perdida.
 - Ícones adicionados por URL podem precisar de conexão para aparecer; prefira enviar uma imagem local para manter o uso totalmente offline.
