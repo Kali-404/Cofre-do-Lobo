@@ -30,7 +30,7 @@ O projeto foi criado por **Kali404**, com foco em utilidade, privacidade e organ
 ## Galeria
 
 <p align="center">
-  <img src="assets/screenshots/tela-inicial.png" alt="Tela inicial do Cofre do Lobo" width="48%" />
+  <img src="assets/screenshots/tela-inicial.png" alt="Tela inicial do Cofre do Lobo" width="25%" />
   <img src="assets/screenshots/criacao-do-cofre.png" alt="Criação de senha mestre e frase de recuperação" width="48%" />
 </p>
 
