@@ -1,4 +1,4 @@
-#$${\color{blue}Blue}$$Cofre do Lobo  <img width="40" height="40" alt="Logo-HTML" src="https://github.com/user-attachments/assets/497b774f-0165-4868-8ab0-6037d9db30a0" />
+# Cofre do Lobo  <img width="40" height="40" alt="Logo-HTML" src="https://github.com/user-attachments/assets/497b774f-0165-4868-8ab0-6037d9db30a0" />
 
 
 
@@ -152,10 +152,4 @@ Script em PHP para criação de uma imagem PNG formada por um gradiente de cores
 
 
 
-$${\color{red}Red}$$
-$${\color{green)Green}$$
-$${\color{lightgreen)Light \space Green}$$
-$${\color{blue}Blue}$$
-$${\color{lightblue}Light \space Blue}$$
-$${\color{black}Black}$$
-$${\color{white}White}$$
+
