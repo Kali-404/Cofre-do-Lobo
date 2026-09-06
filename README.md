@@ -115,3 +115,38 @@ Criado por **Kali404** · Feito no Brasil 🇧🇷 <img width="16" height="16" a
 </p>
 
 ![](./assets/sua-linha-gradiente.png)
+
+
+## Senóide de gradiente de cores RGB
+
+Script em PHP para criação de uma imagem PNG formada por um gradiente de cores gerado a partir de uma função senoidal, para cada canal RGB.
+
+### Exemplo da imagem gerada:
+
+![Senoide](img/rainbow.png?raw=true)
+
+### Referências:
+
+- Bumgardner, J. Making annoying rainbows in javascript. Krazydad. October 13, 2006. Disponível em: <https://krazydad.com/tutorials/makecolors.php>
+
+##### Result
+
+![Example result](http://i.imgur.com/plQAN2Q.png)
+
+## Dependencies
+
+- [chalk](https://github.com/chalk/chalk) - Output colored text to terminal
+- [tinygradient](https://github.com/mistic100/tinygradient) - Generate gradients
+
+## Who uses gradient-string?
+
+- [Shopify](https://shopify.com/) in [Shopify CLI](https://www.npmjs.com/package/@shopify/cli-kit?activeTab=dependencies#:~:text=gradient%2Dstring)
+- [Turoborepo](https://turbo.build/) in [@turbo/workspaces](https://www.npmjs.com/package/@turbo/workspaces?activeTab=dependencies#:~:text=gradient%2Dstring) and [@turbo/codemod](https://www.npmjs.com/package/@turbo/codemod?activeTab=dependencies#:~:text=gradient%2Dstring)
+- [Tencent](https://www.tencent.com/) in [CloudBase Framework](https://www.npmjs.com/package/@cloudbase/framework-core?activeTab=dependencies#:~:text=gradient%2Dstring)
+- [Microsoft](https://microsoft.com) in [@lage-run/reporters](https://www.npmjs.com/package/@lage-run/reporters?activeTab=dependencies#:~:text=gradient%2Dstring)
+- [Fireship](https://fireship.io/) in [this YouTube video](https://youtu.be/_oHByo8tiEY?si=-G6EOqca31UYlWqr&t=341), where he shows how he built [javascript-millionaire](https://github.com/fireship-io/javascript-millionaire)
+- [Magic UI](https://magicui.design/) in [Magic UI CLI](https://www.npmjs.com/package/magicui-cli?activeTab=dependencies#:~:text=gradient%2Dstring)
+- [Myself](https://github.com/bokub) in [chalk-animation](https://github.com/bokub/chalk-animation), the animated version of gradient-string
+- [Sindre Sorhus](https://github.com/sindresorhus) in [ink-gradient](https://www.npmjs.com/package/ink-gradient?activeTab=dependencies#:~:text=gradient%2Dstring), the [Ink](https://github.com/vadimdemedes/ink) version of gradient-string
+- [And ![many](https://flat.badgen.net/github/dependents-repo/bokub/gradient-string?color=000&label=) more in open-source projects](https://github.com/bokub/gradient-string/network/dependents), who downloaded gradient-string [more than ![many](https://flat.badgen.net/npm/dt/gradient-string?color=000&label=) times][downloads-href]!
+
