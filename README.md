@@ -160,3 +160,26 @@ Script em PHP para criação de uma imagem PNG formada por um gradiente de cores
 # Texto em cinza (comentário)
 
 
+- Este texto ficará totalmente em vermelho
++ Este texto ficará totalmente em verde
+! Este texto ficará totalmente em laranja
+# Este texto ficará totalmente em cinza
+
+
+
+> [!NOTE]
+> Este é um destaque azul para notas úteis.
+
+> [!TIP]
+> Este é um destaque verde para dicas de sucesso.
+
+> [!IMPORTANT]
+> Este é um destaque roxo para informações cruciais.
+
+> [!WARNING]
+> Este é um destaque amarelo/laranja para avisos.
+
+> [!CAUTION]
+> Este é um destaque vermelho para alertas de perigo.
+
+
