@@ -1,0 +1,8 @@
+# Nunca publique cofres exportados com dados pessoais.
+cofre-pessoal*.html
+*backup*.html
+*exportado*.html
+
+# Arquivos locais do sistema
+.DS_Store
+Thumbs.db
