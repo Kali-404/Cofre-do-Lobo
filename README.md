@@ -40,9 +40,7 @@ O projeto foi criado por **Kali404**, com foco em utilidade, privacidade e organ
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/adicionar-conta.png" alt="Formulário para adicionar uma conta" width="100
-
-%"/>
+  <img src="assets/screenshots/adicionar-conta.png" alt="Formulário para adicionar uma conta" width="100%"/>
 </p>
 
 *As imagens demonstram a interface com exemplos de teste. Nunca publique capturas contendo credenciais reais.*
