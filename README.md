@@ -1,4 +1,4 @@
-# Cofre do Lobo 🐺<img width="20" height="20" alt="Logo-HTML" src="https://github.com/user-attachments/assets/497b774f-0165-4868-8ab0-6037d9db30a0" />
+# Cofre do Lobo <img width="40" height="40" alt="Logo-HTML" src="https://github.com/user-attachments/assets/497b774f-0165-4868-8ab0-6037d9db30a0" />
 
 
 
