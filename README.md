@@ -1,8 +1,6 @@
 # Cofre do Lobo  <img width="40" height="40" alt="Logo-HTML" src="https://github.com/user-attachments/assets/497b774f-0165-4868-8ab0-6037d9db30a0" />
 
-
-
-> Um cofre pessoal, local e criptografado para organizar e-mails, senhas e os serviços vinculados a cada conta.
+Um cofre pessoal, local e criptografado para organizar e-mails, senhas e os serviços vinculados a cada conta.
 
 ![Status](https://img.shields.io/badge/funciona-offline-8b5cf6?style=for-the-badge)
 ![Privacidade](https://img.shields.io/badge/dados-locais-00e5ff?style=for-the-badge)
@@ -83,7 +81,7 @@ Get-FileHash .\index.html -Algorithm SHA256
 
 Publique o valor retornado junto de cada Release para que outras pessoas possam comparar o arquivo baixado.
 
-$\color{#FF5733}{\text{usar um código HEX personalizado}}$
+
  ## Limitações conhecidas
 
 - A recuperação dos dados depende da senha mestre ou da frase de recuperação configurada. Não há servidor capaz de restaurar uma senha perdida.
