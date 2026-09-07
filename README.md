@@ -63,8 +63,7 @@ Ele nasceu para substituir planilhas confusas e anotações espalhadas, mantendo
 
 > O navegador não envia os dados do cofre para um servidor do projeto. Eles permanecem no arquivo local, criptografados pela sua senha mestre.
 
-## 🛡️<img width="32" height="32" alt="icons8-security-configuration-32" src="https://github.com/user-attachments/assets/a6014144-6741-4e89-8aab-c29500342fdb" />
- Segurança e transparência
+## 🛡️Segurança e transparência
 
 O Cofre do Lobo é código aberto: qualquer pessoa pode inspecionar o HTML e JavaScript antes de usá-lo. Ele não instala programas, não executa arquivos externos e não depende de servidor próprio.
 
