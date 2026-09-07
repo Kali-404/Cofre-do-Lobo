@@ -43,17 +43,17 @@ Ele nasceu para substituir planilhas confusas e anotações espalhadas, mantendo
 ## 🖼️ Galeria
 
 <p align="center">
-  <img src="assets/screenshots/tela-inicial.png" alt="Tela inicial do Cofre do Lobo" width="25%" />
-  <img src="assets/screenshots/criacao-do-cofre.png" alt="Criação de senha mestre e frase de recuperação" width="30%" />
+  <img src="assets/screenshots/tela-inicial.png" alt="Tela inicial do Cofre do Lobo" width="48%" />
+  <img src="assets/screenshots/criacao-do-cofre.png" alt="Criação de senha mestre e frase de recuperação" width="48%" />
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/painel-vazio.png" alt="Painel sem contas cadastradas" width="30%" />
-  <img src="assets/screenshots/contas-e-servicos.png" alt="Contas e serviços vinculados" width="30%" />
+  <img src="assets/screenshots/painel-vazio.png" alt="Painel sem contas cadastradas" width="48%" />
+  <img src="assets/screenshots/contas-e-servicos.png" alt="Contas e serviços vinculados" width="48%" />
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/adicionar-conta.png" alt="Formulário para adicionar uma conta" width="50%" />
+  <img src="assets/screenshots/adicionar-conta.png" alt="Formulário para adicionar uma conta" width="70%" />
 </p>
 
 > As imagens demonstram a interface com exemplos de teste. Nunca publique capturas contendo credenciais reais.
@@ -61,13 +61,13 @@ Ele nasceu para substituir planilhas confusas e anotações espalhadas, mantendo
 ## 🎬 Demonstração em vídeo
 
 <div align="center">
-  <a href="cofre-do-lobo-demo.mp4">
+  <a href="https://raw.githubusercontent.com/Kali-404/Cofre-do-Lobo/main/cofre-do-lobo-demo.mp4">
     <img src="assets/screenshots/tela-inicial.png" width="640" alt="Clique para assistir à demonstração do Cofre do Lobo" />
   </a>
 
   <br>
 
-  <sub>▶ Clique na imagem para abrir o vídeo completo.</sub>
+  <sub>▶ Clique na imagem para abrir ou baixar o vídeo completo.</sub>
 </div>
 
 ## 🚀 Como usar
@@ -112,7 +112,7 @@ Publique o valor retornado junto de cada Release para que outras pessoas possam 
 
 <div align="center">
   <a href="https://github.com/Kali-404/Cofre-do-Lobo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kali-404&repo=Cofre-do-Lobo&theme=transparent&title_color=00e5ff&text_color=ffffff&icon_color=ff00aa&border_color=8b5cf6&border_radius=12" alt="Cartão do projeto Cofre do Lobo" />
+    <img src="https://img.shields.io/badge/ABRIR%20REPOSIT%C3%93RIO-Cofre%20do%20Lobo-00e5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=090b13" alt="Abrir repositório Cofre do Lobo" />
   </a>
 </div>
 
@@ -135,6 +135,8 @@ Este projeto é disponibilizado sob a [Licença MIT](LICENSE).
 <div align="center">
 
 <br>
+
+<p><strong>Kali404</strong> · Feito no Brasil 🇧🇷</p>
 
 <a href="https://github.com/Kali-404"><img src="https://img.shields.io/badge/GitHub-Kali--404-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub de Kali404" /></a>
 
