@@ -84,7 +84,7 @@ Boas práticas importantes:
 
 Para aumentar a confiança da comunidade, envie ao [VirusTotal](https://www.virustotal.com/gui/home/upload) apenas a versão **limpa**, antes de cadastrar dados, e publique o link do resultado em uma Release.
 
-> **Atenção:** não envie ao VirusTotal seu HTML pessoal exportado com dados cadastrados. Arquivos enviados podem ser compartilhados com a comunidade de segurança.
+<p align="center"><strong><font color="#ff0000">⚠️ Atenção: não envie ao VirusTotal seu HTML pessoal exportado com dados cadastrados. Os arquivos enviados podem ser compartilhados com a comunidade de segurança.</font></strong></p>
 
 Para conferir a integridade do arquivo no Windows:
 
