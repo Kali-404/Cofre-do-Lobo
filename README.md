@@ -18,7 +18,7 @@
 
 > **Projeto local e privado:** seus dados permanecem no arquivo do cofre. Nenhum servidor do projeto recebe suas contas, senhas ou serviços cadastrados.
 
-## <img width="25" height="25" alt="Logo-HTML" src="https://github.com/user-attachments/assets/bdb24621-88f2-4c19-a228-2a8ac75f2c22" />  O que é o Cofre do Lobo?
+## <img width="20" height="20" alt="Logo-HTML" src="https://github.com/user-attachments/assets/bdb24621-88f2-4c19-a228-2a8ac75f2c22" />  O que é o Cofre do Lobo?
 
 O **Cofre do Lobo** organiza e-mails, senhas e os serviços vinculados a cada conta em uma interface visual, local e protegida por criptografia.
 
