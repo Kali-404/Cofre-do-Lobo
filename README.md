@@ -58,6 +58,18 @@ Ele nasceu para substituir planilhas confusas e anotações espalhadas, mantendo
 
 > As imagens demonstram a interface com exemplos de teste. Nunca publique capturas contendo credenciais reais.
 
+## 🎬 Demonstração em vídeo
+
+<div align="center">
+  <a href="assets/videos/cofre-do-lobo-demo.mp4">
+    <img src="assets/videos/cofre-do-lobo-demo.gif" width="640" alt="Demonstração do Cofre do Lobo" />
+  </a>
+
+  <br>
+
+  <sub>Clique na animação para abrir o vídeo completo.</sub>
+</div>
+
 ## 🚀 Como usar
 
 1. Baixe o arquivo `index.html` deste repositório.
