@@ -137,7 +137,7 @@ Este projeto é disponibilizado sob a [Licença MIT](LICENSE).
 
 <br>
 
-<p><strong>Kali404</strong> · Feito no Brasil 🇧🇷</p>
+
 
 <a href="https://github.com/Kali-404"><img src="https://img.shields.io/badge/GitHub-Kali--404-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub de Kali404" /></a> <img width="24" height="24" alt="brasil" src="https://github.com/user-attachments/assets/36f8e12c-c8ec-4aca-b7ea-fb0eeba79ba2" />
 
