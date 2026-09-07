@@ -61,13 +61,13 @@ Ele nasceu para substituir planilhas confusas e anotações espalhadas, mantendo
 ## 🎬 Demonstração em vídeo
 
 <div align="center">
-  <a href="assets/videos/cofre-do-lobo-demo.mp4">
-    <img src="assets/videos/cofre-do-lobo-demo.gif" width="640" alt="Demonstração do Cofre do Lobo" />
+  <a href="cofre-do-lobo-demo.mp4">
+    <img src="assets/screenshots/tela-inicial.png" width="640" alt="Clique para assistir à demonstração do Cofre do Lobo" />
   </a>
 
   <br>
 
-  <sub>Clique na animação para abrir o vídeo completo.</sub>
+  <sub>▶ Clique na imagem para abrir o vídeo completo.</sub>
 </div>
 
 ## 🚀 Como usar
