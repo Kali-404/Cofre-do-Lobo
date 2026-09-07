@@ -1,4 +1,4 @@
-<img width="24" height="24" alt="brasil" src="https://github.com/user-attachments/assets/4fe69e31-160b-407d-aa09-1677a124c6ef" />
+
 <!-- README DO COFRE DO LOBO • KALI404 -->
 
 <div align="center">
