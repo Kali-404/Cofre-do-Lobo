@@ -1,3 +1,4 @@
+<img width="24" height="24" alt="brasil" src="https://github.com/user-attachments/assets/4fe69e31-160b-407d-aa09-1677a124c6ef" />
 <!-- README DO COFRE DO LOBO • KALI404 -->
 
 <div align="center">
@@ -138,8 +139,9 @@ Este projeto é disponibilizado sob a [Licença MIT](LICENSE).
 
 <p><strong>Kali404</strong> · Feito no Brasil 🇧🇷</p>
 
-<a href="https://github.com/Kali-404"><img src="https://img.shields.io/badge/GitHub-Kali--404-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub de Kali404" /></a>
+<a href="https://github.com/Kali-404"><img src="https://img.shields.io/badge/GitHub-Kali--404-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub de Kali404" /></a> <img width="24" height="24" alt="brasil" src="https://github.com/user-attachments/assets/36f8e12c-c8ec-4aca-b7ea-fb0eeba79ba2" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=twinkling&color=0:090b13,30:ff00aa,55:8b5cf6,75:00e5ff,100:090b13" alt="Rodapé animado" />
 
-</div>
+</div> 
+
