@@ -41,24 +41,6 @@ Ele nasceu para substituir planilhas confusas e anotações espalhadas, mantendo
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1700&pause=350&color=FF00AA&center=true&vCenter=true&width=760&lines=%F0%9F%94%90+Seus+dados.+Seu+controle.+Seu+cofre.;%E2%9C%A8+Organiza%C3%A7%C3%A3o+com+privacidade+de+verdade." alt="Mensagem animada" />
 </div>
 
-## 🖼️ Galeria
-
-<p align="center">
-  <img src="assets/screenshots/tela-inicial.png" alt="Tela inicial do Cofre do Lobo" width="48%" />
-  <img src="assets/screenshots/criacao-do-cofre.png" alt="Criação de senha mestre e frase de recuperação" width="48%" />
-</p>
-
-<p align="center">
-  <img src="assets/screenshots/painel-vazio.png" alt="Painel sem contas cadastradas" width="48%" />
-  <img src="assets/screenshots/contas-e-servicos.png" alt="Contas e serviços vinculados" width="48%" />
-</p>
-
-<p align="center">
-  <img src="assets/screenshots/adicionar-conta.png" alt="Formulário para adicionar uma conta" width="70%" />
-</p>
-
-> As imagens demonstram a interface com exemplos de teste. Nunca publique capturas contendo credenciais reais.
-
 ## 🎬 Demonstração em vídeo
 
 <div align="center">
