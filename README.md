@@ -30,9 +30,9 @@ Ele nasceu para substituir planilhas confusas e anotações espalhadas, mantendo
 - Cofre protegido por senha mestre.
 - Criptografia local com **Web Crypto API**, **AES-GCM de 256 bits** e **PBKDF2/SHA-256**.
 - Frase de recuperação opcional.
-- Cadastro de múltiplas contas de e-mail.
+- Cadastro de múltiplas contas de e-mail, outlook e yayool.
 - Cadastro de serviços vinculados a cada conta.
-- Serviços predefinidos e nomes personalizados, como TikTok, Kwai, bilibili ou Krafton.
+- Serviços predefinidos e nomes personalizados, como Steam, EpicGames, RockStar Games, TikTok, Kwai, bilibili, Krafton, etc.
 - Ícones predefinidos ou personalizados para contas e serviços.
 - Exportação de um novo HTML criptografado e utilizável offline.
 - Layout responsivo para desktop e Android.
