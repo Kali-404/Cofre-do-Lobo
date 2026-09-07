@@ -62,13 +62,13 @@ Ele nasceu para substituir planilhas confusas e anotações espalhadas, mantendo
 ## 🎬 Demonstração em vídeo
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/Kali-404/Cofre-do-Lobo/main/cofre-do-lobo-demo.mp4">
-    <img src="assets/screenshots/tela-inicial.png" width="640" alt="Clique para assistir à demonstração do Cofre do Lobo" />
+  <a href="https://youtu.be/5HIvRWdyiTI">
+    <img src="https://i.ytimg.com/vi/5HIvRWdyiTI/maxresdefault.jpg" width="640" alt="Assistir à demonstração oficial do Cofre do Lobo no YouTube" />
   </a>
 
   <br>
 
-  <sub>▶ Clique na imagem para abrir ou baixar o vídeo completo.</sub>
+  <sub>▶ Clique na miniatura para assistir à demonstração completa no YouTube.</sub>
 </div>
 
 ## 🚀 Como usar
